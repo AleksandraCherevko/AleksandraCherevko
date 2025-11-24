@@ -10,4 +10,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AleksandraCherevkoa&repo=eact-cafe-feedback)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/AleksandraCherevko/react-cafe-feedback))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AleksandraCherevkoa&repo=react-cafe-feedback)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/AleksandraCherevko/react-cafe-feedback))
