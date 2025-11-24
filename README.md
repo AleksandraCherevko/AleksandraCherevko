@@ -18,7 +18,7 @@
 
 ## Personal Projects
 
-### Clothica
+### • Clothica
 Multi-page responsive clothing store website (MVP).  
 Includes product catalog, cart, checkout, authentication, and user account.  
 Goal: provide a modern and user-friendly online store using contemporary web technologies.  
@@ -27,16 +27,23 @@ Goal: provide a modern and user-friendly online store using contemporary web tec
 
 ## Team Projects
 
-### Clothica
+### • Clothica
 Multi-page responsive clothing store website (MVP).  
 Includes product catalog, cart, checkout, authentication, and user account.  
 Goal: provide a modern and user-friendly online store using contemporary web technologies.  
-[Repository](https://github.com/AndriiOshlakov/dream-frontend)
+Live Demo:  
+https://dream-frontend-navy.vercel.app/
 
-### CV-L.Jefferson
+Repository:  
+[https://github.com/AleksandraCherevko/CV-L.Jefferson](https://github.com/AndriiOshlakov/dream-frontend)
+
+### • CV-L.Jefferson
 This is a team project built using HTML, CSS, and JavaScript.
 The project includes an accordion component, Swiper slider, and implements data submission using the HTTP POST method.
 The focus was on clean layout, responsive design, and basic interactive UI elements.
-🔗 Live Demo:
+Live Demo:  
 https://antonskoro10.github.io/CV-L.Jefferson/
-[Repository](https://github.com/AleksandraCherevko/CV-L.Jefferson)
+
+Repository:  
+https://github.com/AleksandraCherevko/CV-L.Jefferson
+
