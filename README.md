@@ -1,8 +1,9 @@
 
 
 
-<h1 align="center"> My name is Oleksandra.</h1>
-<h3 align="center">Im a future fullstack developer, based in 📍Prague, Czech Republic.</h3>
+<h2 align="center">👋 Hi! I'm learning web development.</h2>
+<h4 align="center">💻 React & JavaScript • 🚀 Future frontend dev • 📚 Love creating simple, useful apps</h4>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,6 +15,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## Personal Projects
