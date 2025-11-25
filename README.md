@@ -1,63 +1,83 @@
+<h2 align="center">👋 Hi! I'm Aleksandra — Front-End Developer</h2>
+<h4 align="center">💻 React & JavaScript • 🚀 Future Frontend Engineer • 📚 Building useful and simple web applications</h4>
 
+---
 
+### 👩‍💻 About Me
 
-<h2 align="center">👋 Hi! I'm learning web development.</h2>
-<h4 align="center">💻 React & JavaScript • 🚀 Future frontend dev • 📚 Love creating simple, useful apps</h4>
+I am an active and passionate **Front-End Developer** skilled in  
+**HTML, CSS, JavaScript, React, TypeScript, Node.js, and Next.js**.
 
+I’m interested in modern technologies, innovative solutions, and new IT products.  
+I constantly develop my skills, work on real projects, and have experience collaborating in **Agile/Scrum** teams.
 
+I am a fast learner, responsible, and always ready for new challenges — whether it’s learning, practice, or building production-ready applications.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Activity&hide_border=true&height=200&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+### 🛠️ Tech Stack
+
+#### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### **Tools & Databases**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
-## Personal Projects
-
-### • React Image Search App
-
-A simple React application that fetches photos from Unsplash using HTTP requests.
-Users can enter keywords to search and instantly view relevant images.
-
-[Live Demo](https://image-gallery-integration-with-unsplash-api-zktn.vercel.app/)
-
-[Repository](https://github.com/AleksandraCherevko/Image_Gallery_Integration_with_Unsplash_API)
+### 📊 GitHub Stats
 
 
-## Team Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandraCherevko&theme=high-contrast&hide_border=true&height=250" />
+</p>
 
-### • Clothica
-Multi-page responsive clothing store website (MVP).  
-Includes product catalog, cart, checkout, authentication, and user account.  
-Goal: provide a modern and user-friendly online store using contemporary web technologies.  
-[Live Demo](https://dream-frontend-navy.vercel.app/)
+---
 
-[Repository](https://github.com/AndriiOshlakov/dream-frontend)
+## 🌟 Personal Projects
 
-### • CV-L.Jefferson
-This is a team project built using HTML, CSS, and JavaScript.
-The project includes an accordion component, Swiper slider, and implements data submission using the HTTP POST method.
-The focus was on clean layout, responsive design, and basic interactive UI elements.
-[Live Demo](https://antonskoro10.github.io/CV-L.Jefferson/)
+### • **React Image Search App**
+Simple application that fetches photos from Unsplash and displays results based on user input.
 
-[Repository](https://github.com/AleksandraCherevko/CV-L.Jefferson)
+🔗 **[Live Demo](https://image-gallery-integration-with-unsplash-api-zktn.vercel.app/)**  
+📁 **[Repository](https://github.com/AleksandraCherevko/Image_Gallery_Integration_with_Unsplash_API)**
 
-### • MIMINO-team-project
-Team project of a hotel website built using HTML, CSS, and JavaScript.
-Focus on clean UI, responsive layout, and essential booking-style page structure.
-[Live Demo](https://nille24.github.io/team-10/)
+---
 
-[Repository](https://github.com/AleksandraCherevko/MIMINO-team-project)
+## 🤝 Team Projects
 
+### • **Clothica — Online Clothing Store**
+Responsive multi-page store with catalog, cart, checkout, authentication, and user account.
 
+🔗 **[Live Demo](https://dream-frontend-navy.vercel.app/)**  
+📁 **[Repository](https://github.com/AndriiOshlakov/dream-frontend)**
 
+---
 
+### • **CV-L.Jefferson**
+Team project built with HTML, CSS, and JS (accordion, swiper slider, POST form submit).
 
+🔗 **[Live Demo](https://antonskoro10.github.io/CV-L.Jefferson/)**  
+📁 **[Repository](https://github.com/AleksandraCherevko/CV-L.Jefferson)**
+
+---
+
+### • **MIMINO — Hotel Website**
+Responsive layout with clean UI and essential page structure.
+
+🔗 **[Live Demo](https://nille24.github.io/team-10/)**  
+📁 **[Repository](https://github.com/AleksandraCherevko/MIMINO-team-project)**
+
+---
+
+### 📬 Contact
+Let’s connect and build something great together!
+
+---
