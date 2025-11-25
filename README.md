@@ -7,6 +7,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Activity&hide_border=true&height=200&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -55,3 +56,8 @@ Focus on clean UI, responsive layout, and essential booking-style page structure
 [Live Demo](https://nille24.github.io/team-10/)
 
 [Repository](https://github.com/AleksandraCherevko/MIMINO-team-project)
+
+
+
+
+
