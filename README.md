@@ -29,6 +29,7 @@ I am a fast learner, responsible, and always ready for new challenges — whethe
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
 
@@ -42,6 +43,12 @@ I am a fast learner, responsible, and always ready for new challenges — whethe
 ---
 
 ## 🌟 Personal Projects
+
+### • **LearnLingo**
+A React-based web application for online language learning, featuring user authentication with Firebase, teacher listings with filtering, favorites management, and booking trial lessons, styled according to the provided design mockups.
+
+🔗 **[Live Demo](https://learn-lingo-weld.vercel.app/)**  
+📁 **[Repository](https://github.com/AleksandraCherevko/LearnLingo)**
 
 ### • **React Image Search App**
 Simple application that fetches photos from Unsplash and displays results based on user input.
