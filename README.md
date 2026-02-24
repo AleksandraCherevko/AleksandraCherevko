@@ -43,6 +43,13 @@ I am a fast learner, responsible, and always ready for new challenges — whethe
 ---
 
 ## 🌟 Personal Projects
+### • **PetLove**
+Petlove Web is a Next.js app for pet notices browsing, filtering, favorites/viewed management, and user profile features with authenticated API integration.
+
+🔗 **[Live Demo](https://petloveweb.vercel.app/home)**  
+📁 **[Repository](https://github.com/AleksandraCherevko/petloveweb)**
+
+---
 
 ### • **LearnLingo**
 A React-based web application for online language learning, featuring user authentication with Firebase, teacher listings with filtering, favorites management, and booking trial lessons, styled according to the provided design mockups.
@@ -50,11 +57,7 @@ A React-based web application for online language learning, featuring user authe
 🔗 **[Live Demo](https://learn-lingo-weld.vercel.app/)**  
 📁 **[Repository](https://github.com/AleksandraCherevko/LearnLingo)**
 
-### • **PetLove**
-Petlove Web is a Next.js app for pet notices browsing, filtering, favorites/viewed management, and user profile features with authenticated API integration.
-
-🔗 **[Live Demo](https://learn-lingo-weld.vercel.app/](https://petloveweb.vercel.app/home)**  
-📁 **[Repository](https://github.com/AleksandraCherevko/petloveweb)**
+---
 
 ### • **React Image Search App**
 Simple application that fetches photos from Unsplash and displays results based on user input.
