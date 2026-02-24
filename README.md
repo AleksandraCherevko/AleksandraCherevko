@@ -50,6 +50,12 @@ A React-based web application for online language learning, featuring user authe
 🔗 **[Live Demo](https://learn-lingo-weld.vercel.app/)**  
 📁 **[Repository](https://github.com/AleksandraCherevko/LearnLingo)**
 
+### • **PetLove**
+Petlove Web is a Next.js app for pet notices browsing, filtering, favorites/viewed management, and user profile features with authenticated API integration.
+
+🔗 **[Live Demo](https://learn-lingo-weld.vercel.app/](https://petloveweb.vercel.app/home)**  
+📁 **[Repository](https://github.com/AleksandraCherevko/petloveweb)**
+
 ### • **React Image Search App**
 Simple application that fetches photos from Unsplash and displays results based on user input.
 
