@@ -33,15 +33,6 @@ I am a fast learner, responsible, and always ready for new challenges — whethe
 
 ---
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleksandraCherevko&theme=high-contrast&hide_border=true&height=250" />
-</p>
-
----
-
 ## 🌟 Personal Projects
 ### • **PetLove**
 Petlove Web is a Next.js app for pet notices browsing, filtering, favorites/viewed management, and user profile features with authenticated API integration.
